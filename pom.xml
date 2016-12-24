@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   
   <build>
-    <finalName>assignment5</finalName>
+    <finalName>heroku-test</finalName>
     <sourceDirectory>src/main/java</sourceDirectory>
     <plugins>
       <plugin>
